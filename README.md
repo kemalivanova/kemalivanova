@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+<h2> Hello <img src="https://media.tenor.com/B8aqlDsEb-4AAAAj/cat.gif" width="50"></h2>
+</div>
 
-<!--
-**kemalivanova/kemalivanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+class ProgrammingAndCybersecurityStudent:
+
+  def __init__(self):
+    self.name = "Kamel"  
+    self.interests = ["Programação", "Segurança Cibernética"]
+
+
+student = ProgrammingAndCybersecurityStudent()
+```
