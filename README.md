@@ -3,17 +3,3 @@
 </div>
 
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
-class ProgrammingAndCybersecurityStudent:
-
-  def __init__(self):
-    self.name = "Kamel"  
-    self.interests = ["Programação", "Segurança Cibernética"]
-
-
-student = ProgrammingAndCybersecurityStudent()
-```
